@@ -4,7 +4,7 @@
 
 使用 Vision Transformer 進行物件偵測
 
-學號 : 11124232、11124221、11124212
+學號 : 11124233黃文龍、11124230葉承諺、11125005林啟陽
 
 參考網址 :https://keras.io/examples/vision/object_detection_using_vision_transformer/
 
@@ -14,7 +14,7 @@
 </tr>
 <h3>更新版本</h3>
 
-因原作者使用keras版本過舊會產生錯誤，我們首要先更新版本
+因原作者使用keras版本過舊會產生錯誤，我們要先更新版本
 
 ```python
 //原版本資訊
